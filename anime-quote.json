@@ -1,0 +1,37 @@
+{
+    "animeQuote":[
+        {
+            "name": "Gintama",
+            "quote": "Sake sure is nice. You can forget your troubles if only for a moment. You'll have to remember them tomorrow though, and they'll be even more painful than they were the night before. You cant run from things like this. Especially from the things you really want to forget."
+        },
+        {
+            "name":"Tokyo Ghoul",
+            "quote":"I can neither live with you.Nor without you."
+        },
+        {
+            "name":"Tokyo Ghoul",
+            "quote":"I led me by the hand, as if to fill the niches in the memories in my oozing brain filled. Without even a destination, we kept walking. Disgusting cloud were floating in the sky.I already know what will happen to me the next time I wake up."
+        },
+        {
+            "name": "Fullmetal Alchemist",
+            "quote": "Humankind cannot gain something without first giving something in return. To obtain, something of equal value must be lost. This is Alchemy's First Law of Equivalent Exchange. In those days we really believed that to be the world's one, and only, truth."
+        },
+        {
+            "name": "Nana",
+            "quote": "In this world not everything is won by justice. If you want to win you have to learn how to cheat."
+        },
+        
+        {
+            "name":"Your Lie in April",
+            "quote":"You're like a cat. If i get close, you'll ignore me and go far away. If I get hurt, you'll play around and to share the pain."
+        },
+        {
+            "name":"Your Lie in April",
+            "quote":"The momont I met her, my life changed. Everything I saw, everything i heard, everything  I felt, all the scenery around me... started to take on colors."
+        },
+        {
+            "name": "Fairy Tail",
+            "quote": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."
+        }
+    ]
+}
